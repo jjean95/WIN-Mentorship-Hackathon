@@ -1,7 +1,7 @@
-# WIN-Mentorship-Hackaton
-Repository for Women-Industry Network Mentorship Hackaton
+# WIN-Mentorship-Hackathon
+Repository for Women-Industry Network Mentorship Hackathon
 link to DevPost []
 
 Tools:
-- Streamlit
-- Python
+- Figma
+- Flutter
