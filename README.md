@@ -5,13 +5,13 @@ An app that tracks handover shifts in the manufacturing industry
 [link to DevPost](https://devpost.com/software/handover-shifts-tracker-app)
 
 ### Problem statement:
-At manufacturing industry, there are 12 hours shift pattern which consists of day shift and night shift.
+In the manufacturing industry, there is 12 hours shift pattern which consists of the day shift and night shift.
 
-Between the shift, there will be handover (passing down issue or concern during the working shift). As the current practice, operator/technician only passdown the issue through the teams chat or face to face, which leads some miscommunication or overlook on the issues.
+Between the shift, there will be a handover (passing down issues or concerns during the working shift). As the current practice, the operator/technician only passes down the issue through the team's chat or face-to-face, which leads to some miscommunication or overlooks of the issues.
 
 ### Solution:
-
+An app that is able to check and update stakeholders (operators & technicians) on the ongoing issue
 
 ### Tools:
-- Figma
-- Flutter
+- Figma (wireframe)
+- Flutter (app)
