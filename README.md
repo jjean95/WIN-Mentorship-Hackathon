@@ -3,6 +3,7 @@
 An app that tracks handover shifts in the manufacturing industry
 
 [link to DevPost](https://devpost.com/software/handover-shifts-tracker-app)
+[link to Flutter Emulator](https://flutlab.io/sandbox/33e6e43a-183f-4bcf-ad0d-8a28dec5dd3f)
 
 ### Problem statement:
 In the manufacturing industry, there is 12 hours shift pattern which consists of the day shift and night shift.
